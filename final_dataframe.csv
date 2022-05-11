@@ -1,0 +1,149 @@
+id,name,item0,item1,item2,item3,item4,item5,spell1,spell2,nameitem0,nameitem1,nameitem2,nameitem3,nameitem4,nameitem5,spellname1,spellname2
+64,LeeSin,1412,2031,2055,3071,3047,3111,11,4,Enchantment: Warrior,Refillable Potion,Control Ward,The Black Cleaver,Ninja Tabi,Mercury's Treads,Smite,Flash
+81,Ezreal,1055,3153,3158,3042,3078,3025,7,4,Doran's Blade,Blade of the Ruined King,Ionian Boots of Lucidity,Muramana,Trinity Force,Iceborn Gauntlet,Heal,Flash
+21,MissFortune,1055,3508,3006,3031,1038,1042,7,4,Doran's Blade,Essence Reaver,Berserker's Greaves,Infinity Edge,B. F. Sword,Dagger,Heal,Flash
+412,Thresh,3857,3193,2055,3117,3067,3050,14,4,,,Control Ward,Boots of Mobility,Kindlegem,Zeke's Harbinger,Ignite,Flash
+236,Lucian,3153,3508,3006,1055,1038,3047,7,4,Blade of the Ruined King,Essence Reaver,Berserker's Greaves,Doran's Blade,B. F. Sword,Ninja Tabi,Heal,Flash
+875,Sett,1054,2031,3047,3071,3742,3111,12,4,Doran's Shield,Refillable Potion,Ninja Tabi,The Black Cleaver,Dead Man's Plate,Mercury's Treads,Teleport,Flash
+145,Kaisa,1055,3124,3006,3042,3115,1042,7,4,Doran's Blade,Guinsoo's Rageblade,Berserker's Greaves,Muramana,Nashor's Tooth,Dagger,Heal,Flash
+235,Senna,3864,3179,2055,3009,3134,1036,7,4,,,Control Ward,Boots of Swiftness,Serrated Dirk,Long Sword,Heal,Flash
+517,Sylas,3152,3157,2033,3020,3285,3111,12,4,Hextech Protobelt-01,Zhonya's Hourglass,Corrupting Potion,Sorcerer's Shoes,Luden's Echo,Mercury's Treads,Teleport,Flash
+523,Aphelios,1055,3508,3006,3085,3031,1042,7,4,Doran's Blade,Essence Reaver,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Dagger,Heal,Flash
+245,Ekko,3152,2031,3100,3020,1402,3111,11,4,Hextech Protobelt-01,Refillable Potion,Lich Bane,Sorcerer's Shoes,Enchantment: Runic Echoes,Mercury's Treads,Smite,Flash
+60,Elise,1402,2031,3020,3165,1082,3117,11,4,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Morellonomicon,The Dark Seal,Boots of Mobility,Smite,Flash
+111,Nautilus,3860,3193,2055,3117,3067,3111,14,4,,,Control Ward,Boots of Mobility,Kindlegem,Mercury's Treads,Ignite,Flash
+39,Irelia,2033,3153,3078,3047,3053,3111,12,4,Corrupting Potion,Blade of the Ruined King,Trinity Force,Ninja Tabi,Sterak's Gage,Mercury's Treads,Teleport,Flash
+266,Aatrox,1054,3071,3812,3047,3133,3111,12,4,Doran's Shield,The Black Cleaver,Death's Dance,Ninja Tabi,Caulfield's Warhammer,Mercury's Treads,Teleport,Flash
+421,RekSai,1400,2031,2055,3071,3047,3111,11,4,Enchantment: Warrior,Refillable Potion,Control Ward,The Black Cleaver,Ninja Tabi,Mercury's Treads,Smite,Flash
+432,Bard,3853,3107,2055,3117,3174,3009,14,4,,Redemption,Control Ward,Boots of Mobility,Athene's Unholy Grail,Boots of Swiftness,Ignite,Flash
+58,Renekton,3077,3071,3047,1055,3111,3053,12,4,Tiamat,The Black Cleaver,Ninja Tabi,Doran's Blade,Mercury's Treads,Sterak's Gage,Teleport,Flash
+53,Blitzcrank,3857,3050,2055,3117,3067,1029,14,4,,Zeke's Harbinger,Control Ward,Boots of Mobility,Kindlegem,Cloth Armor,Ignite,Flash
+555,Pyke,3142,3857,3117,3179,3147,1036,14,4,Youmuu's Ghostblade,,Boots of Mobility,,Duskblade of Draktharr,Long Sword,Ignite,Flash
+80,Pantheon,2033,3142,3071,3111,3047,1036,14,4,Corrupting Potion,Youmuu's Ghostblade,The Black Cleaver,Mercury's Treads,Ninja Tabi,Long Sword,Ignite,Flash
+142,,2033,3285,3020,3165,1082,1026,14,4,Corrupting Potion,Luden's Echo,Sorcerer's Shoes,Morellonomicon,The Dark Seal,Blasting Wand,Ignite,Flash
+76,Nidalee,1414,2031,3157,3100,3174,3020,11,4,Enchantment: Runic Echoes,Refillable Potion,Zhonya's Hourglass,Lich Bane,Athene's Unholy Grail,Sorcerer's Shoes,Smite,Flash
+110,Varus,3153,3142,3006,3179,3814,3158,7,4,Blade of the Ruined King,Youmuu's Ghostblade,Berserker's Greaves,,Edge of Night,Ionian Boots of Lucidity,Heal,Flash
+157,Yasuo,1055,3031,3006,3046,3087,1038,14,4,Doran's Blade,Infinity Edge,Berserker's Greaves,Phantom Dancer,Statikk Shiv,B. F. Sword,Ignite,Flash
+89,Leona,3860,3193,2055,3117,3067,1029,14,4,,,Control Ward,Boots of Mobility,Kindlegem,Cloth Armor,Ignite,Flash
+246,Qiyana,2033,3142,3147,3117,3179,1036,14,4,Corrupting Potion,Youmuu's Ghostblade,Duskblade of Draktharr,Boots of Mobility,,Long Sword,Ignite,Flash
+350,Yuumi,3853,3174,2055,3504,1082,1052,3,7,,Athene's Unholy Grail,Control Ward,Ardent Censer,The Dark Seal,Amplifying Tome,Exhaust,Heal
+429,Kalista,3153,3085,3006,1055,1042,1036,7,4,Blade of the Ruined King,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Dagger,Long Sword,Heal,Flash
+82,Mordekaiser,3152,3157,3151,3047,3116,3111,12,4,Hextech Protobelt-01,Zhonya's Hourglass,Liandry's Torment,Ninja Tabi,Rylai's Crystal Scepter,Mercury's Treads,Teleport,Flash
+7,Leblanc,2033,3285,3020,3165,1082,1052,14,4,Corrupting Potion,Luden's Echo,Sorcerer's Shoes,Morellonomicon,The Dark Seal,Amplifying Tome,Ignite,Flash
+516,Ornn,1054,3373,3379,3047,3111,1028,12,4,Doran's Shield,,,Ninja Tabi,Mercury's Treads,Ruby Crystal,Teleport,Flash
+30,Karthus,1402,2031,3020,3165,1082,1058,11,4,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Morellonomicon,The Dark Seal,Needlessly Large Rod,Smite,Flash
+24,Jax,2033,3078,3047,3111,1055,2422,4,12,Corrupting Potion,Trinity Force,Ninja Tabi,Mercury's Treads,Doran's Blade,,Flash,Teleport
+2,Olaf,1400,2031,3071,3047,1028,1412,11,4,Enchantment: Warrior,Refillable Potion,The Black Cleaver,Ninja Tabi,Ruby Crystal,Enchantment: Warrior,Smite,Flash
+163,Taliyah,1402,2031,3020,3165,1082,1026,11,4,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Morellonomicon,The Dark Seal,Blasting Wand,Smite,Flash
+68,Rumble,1054,3157,3020,3151,3165,1052,14,4,Doran's Shield,Zhonya's Hourglass,Sorcerer's Shoes,Liandry's Torment,Morellonomicon,Amplifying Tome,Ignite,Flash
+51,Caitlyn,1055,3031,3006,3094,3095,1042,7,4,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,,Dagger,Heal,Flash
+86,Garen,1054,3078,3006,3742,3087,3047,14,4,Doran's Shield,Trinity Force,Berserker's Greaves,Dead Man's Plate,Statikk Shiv,Ninja Tabi,Ignite,Flash
+79,Gragas,3020,3157,2055,1402,3165,1052,11,4,Sorcerer's Shoes,Zhonya's Hourglass,Control Ward,Enchantment: Runic Echoes,Morellonomicon,Amplifying Tome,Smite,Flash
+8,Vladimir,3152,3157,3907,3020,3108,1058,12,4,Hextech Protobelt-01,Zhonya's Hourglass,,Sorcerer's Shoes,Fiendish Codex,Needlessly Large Rod,Teleport,Flash
+84,Akali,3146,3157,3020,3165,1054,1052,12,4,Hextech Gunblade,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Doran's Shield,Amplifying Tome,Teleport,Flash
+164,Camille,3074,3078,3077,1055,3047,3111,12,4,Ravenous Hydra,Trinity Force,Tiamat,Doran's Blade,Ninja Tabi,Mercury's Treads,Teleport,Flash
+59,JarvanIV,3193,2031,2055,3071,1413,3047,11,4,,Refillable Potion,Control Ward,The Black Cleaver,Enchantment: Cinderhulk,Ninja Tabi,Smite,Flash
+91,Talon,3077,3142,3147,3117,1036,3134,14,4,Tiamat,Youmuu's Ghostblade,Duskblade of Draktharr,Boots of Mobility,Long Sword,Serrated Dirk,Ignite,Flash
+43,Karma,3853,3174,2055,3504,3158,3117,14,4,,Athene's Unholy Grail,Control Ward,Ardent Censer,Ionian Boots of Lucidity,Boots of Mobility,Ignite,Flash
+22,Ashe,3153,3085,3006,1055,1042,1038,7,4,Blade of the Ruined King,Runaan's Hurricane,Berserker's Greaves,Doran's Blade,Dagger,B. F. Sword,Heal,Flash
+134,Syndra,2033,3030,3020,3165,3285,1056,4,14,Corrupting Potion,Hextech GLP-800,Sorcerer's Shoes,Morellonomicon,Luden's Echo,Doran's Ring,Flash,Ignite
+25,Morgana,3157,3853,2055,3117,3108,3020,14,4,Zhonya's Hourglass,,Control Ward,Boots of Mobility,Fiendish Codex,Sorcerer's Shoes,Ignite,Flash
+154,Zac,1401,2031,3065,3047,3067,3111,11,4,Enchantment: Cinderhulk,Refillable Potion,Spirit Visage,Ninja Tabi,Kindlegem,Mercury's Treads,Smite,Flash
+122,Darius,3078,2031,3047,3053,3111,1028,6,4,Trinity Force,Refillable Potion,Ninja Tabi,Sterak's Gage,Mercury's Treads,Ruby Crystal,Ghost,Flash
+104,Graves,1412,3142,3006,3047,1036,3111,11,4,Enchantment: Warrior,Youmuu's Ghostblade,Berserker's Greaves,Ninja Tabi,Long Sword,Mercury's Treads,Smite,Flash
+67,Vayne,3153,3124,3006,1055,3046,1042,7,4,Blade of the Ruined King,Guinsoo's Rageblade,Berserker's Greaves,Doran's Blade,Phantom Dancer,Dagger,Heal,Flash
+69,Cassiopeia,3040,3157,3116,1056,1026,1052,4,12,Seraph's Embrace,Zhonya's Hourglass,Rylai's Crystal Scepter,Doran's Ring,Blasting Wand,Amplifying Tome,Flash,Teleport
+202,Jhin,3031,3095,3094,3009,1055,1018,7,4,Infinity Edge,,Rapid Firecannon,Boots of Swiftness,Doran's Blade,Cloak of Agility,Heal,Flash
+114,Fiora,3074,3078,3047,1055,3111,1036,12,4,Ravenous Hydra,Trinity Force,Ninja Tabi,Doran's Blade,Mercury's Treads,Long Sword,Teleport,Flash
+55,Katarina,3146,3157,3020,3165,1052,1026,14,4,Hextech Gunblade,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Amplifying Tome,Blasting Wand,Ignite,Flash
+126,Jayce,3142,2033,3147,3047,3071,3111,12,4,Youmuu's Ghostblade,Corrupting Potion,Duskblade of Draktharr,Ninja Tabi,The Black Cleaver,Mercury's Treads,Teleport,Flash
+57,Maokai,1054,3068,3047,3065,3076,3111,12,4,Doran's Shield,Sunfire Cape,Ninja Tabi,Spirit Visage,,Mercury's Treads,Teleport,Flash
+498,Xayah,3508,3006,3031,3094,1055,1042,7,4,Essence Reaver,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Doran's Blade,Dagger,Heal,Flash
+238,,3142,2031,3147,3111,1036,3158,14,4,Youmuu's Ghostblade,Refillable Potion,Duskblade of Draktharr,Mercury's Treads,Long Sword,Ionian Boots of Lucidity,Ignite,Flash
+4,TwistedFate,2033,3157,3027,3100,3111,3047,12,4,Corrupting Potion,Zhonya's Hourglass,Rod of Ages,Lich Bane,Mercury's Treads,Ninja Tabi,Teleport,Flash
+223,TahmKench,3860,3109,2055,3111,3047,3009,3,4,,Knight's Vow,Control Ward,Mercury's Treads,Ninja Tabi,Boots of Swiftness,Exhaust,Flash
+105,Fizz,2033,3157,3152,3100,3041,3020,14,4,Corrupting Potion,Zhonya's Hourglass,Hextech Protobelt-01,Lich Bane,Mejai's Soulstealer,Sorcerer's Shoes,Ignite,Flash
+78,Poppy,2033,3068,3047,3111,3194,1028,12,4,Corrupting Potion,Sunfire Cape,Ninja Tabi,Mercury's Treads,,Ruby Crystal,Teleport,Flash
+40,Janna,3853,3107,2055,3174,3117,3504,14,4,,Redemption,Control Ward,Athene's Unholy Grail,Boots of Mobility,Ardent Censer,Ignite,Flash
+44,Taric,3860,3050,2055,3109,3158,3047,14,4,,Zeke's Harbinger,Control Ward,Knight's Vow,Ionian Boots of Lucidity,Ninja Tabi,Ignite,Flash
+13,Ryze,3040,2031,3027,3020,3165,3111,12,4,Seraph's Embrace,Refillable Potion,Rod of Ages,Sorcerer's Shoes,Morellonomicon,Mercury's Treads,Teleport,Flash
+117,Lulu,3853,3107,2055,3504,3117,3158,14,4,,Redemption,Control Ward,Ardent Censer,Boots of Mobility,Ionian Boots of Lucidity,Ignite,Flash
+497,Rakan,3860,3050,2055,3117,3114,3111,14,4,,Zeke's Harbinger,Control Ward,Boots of Mobility,Forbidden Idol,Mercury's Treads,Ignite,Flash
+16,Soraka,3107,3174,3853,3158,3504,3114,21,4,Redemption,Athene's Unholy Grail,,Ionian Boots of Lucidity,Ardent Censer,Forbidden Idol,Barrier,Flash
+222,Jinx,1055,3031,3006,3094,3085,1042,7,4,Doran's Blade,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Runaan's Hurricane,Dagger,Heal,Flash
+131,Diana,3152,3157,3020,1056,3165,3111,14,4,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Morellonomicon,Mercury's Treads,Ignite,Flash
+203,Kindred,1412,2031,3006,3071,1042,3085,11,4,Enchantment: Warrior,Refillable Potion,Berserker's Greaves,The Black Cleaver,Dagger,Runaan's Hurricane,Smite,Flash
+56,Nocturne,3077,2033,3147,3071,3814,3006,14,4,Tiamat,Corrupting Potion,Duskblade of Draktharr,The Black Cleaver,Edge of Night,Berserker's Greaves,Ignite,Flash
+41,Gangplank,3078,2033,3047,3508,3031,3111,12,4,Trinity Force,Corrupting Potion,Ninja Tabi,Essence Reaver,Infinity Edge,Mercury's Treads,Teleport,Flash
+26,,3030,3905,2055,3117,3158,1052,4,14,Hextech GLP-800,,Control Ward,Boots of Mobility,Ionian Boots of Lucidity,Amplifying Tome,Flash,Ignite
+62,MonkeyKing,3153,2033,3071,3047,1036,3111,12,4,Blade of the Ruined King,Corrupting Potion,The Black Cleaver,Ninja Tabi,Long Sword,Mercury's Treads,Teleport,Flash
+3,Galio,3152,3157,2055,1056,3111,3047,4,12,Hextech Protobelt-01,Zhonya's Hourglass,Control Ward,Doran's Ring,Mercury's Treads,Ninja Tabi,Flash,Teleport
+201,Braum,3857,3050,2055,3109,3117,3047,4,14,,Zeke's Harbinger,Control Ward,Knight's Vow,Boots of Mobility,Ninja Tabi,Flash,Ignite
+38,Kassadin,3040,3157,3027,3020,1082,3111,12,4,Seraph's Embrace,Zhonya's Hourglass,Rod of Ages,Sorcerer's Shoes,The Dark Seal,Mercury's Treads,Teleport,Flash
+12,Alistar,3860,3800,2055,3117,3067,1029,14,4,,Righteous Glory,Control Ward,Boots of Mobility,Kindlegem,Cloth Armor,Ignite,Flash
+99,Lux,3285,3020,3165,3174,3117,1052,4,14,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Athene's Unholy Grail,Boots of Mobility,Amplifying Tome,Flash,Ignite
+98,Shen,1054,3068,3047,3111,3158,1028,12,4,Doran's Shield,Sunfire Cape,Ninja Tabi,Mercury's Treads,Ionian Boots of Lucidity,Ruby Crystal,Teleport,Flash
+267,Nami,3853,3107,2055,3174,3117,3114,14,4,,Redemption,Control Ward,Athene's Unholy Grail,Boots of Mobility,Forbidden Idol,Ignite,Flash
+35,Shaco,3285,3077,3020,3147,3117,1036,14,4,Luden's Echo,Tiamat,Sorcerer's Shoes,Duskblade of Draktharr,Boots of Mobility,Long Sword,Ignite,Flash
+61,Orianna,3285,3020,3165,3089,1056,1058,4,12,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Doran's Ring,Needlessly Large Rod,Flash,Teleport
+85,Kennen,3152,3157,3020,3165,1055,1052,12,4,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Morellonomicon,Doran's Blade,Amplifying Tome,Teleport,Flash
+103,Ahri,3030,3905,3020,3165,1056,1052,14,4,Hextech GLP-800,,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Amplifying Tome,Ignite,Flash
+240,Kled,3748,3071,3047,1055,3111,1028,12,4,Titanic Hydra,The Black Cleaver,Ninja Tabi,Doran's Blade,Mercury's Treads,Ruby Crystal,Teleport,Flash
+9,Fiddlesticks,3157,3853,2055,3117,3020,1052,14,4,Zhonya's Hourglass,,Control Ward,Boots of Mobility,Sorcerer's Shoes,Amplifying Tome,Ignite,Flash
+107,Rengar,1055,3077,3071,3147,3047,3111,12,4,Doran's Blade,Tiamat,The Black Cleaver,Duskblade of Draktharr,Ninja Tabi,Mercury's Treads,Teleport,Flash
+54,Malphite,3285,3020,3047,3089,3068,3111,12,4,Luden's Echo,Sorcerer's Shoes,Ninja Tabi,Rabadon's Deathcap,Sunfire Cape,Mercury's Treads,Teleport,Flash
+106,Volibear,3800,3748,2055,3742,3047,3117,14,4,Righteous Glory,Titanic Hydra,Control Ward,Dead Man's Plate,Ninja Tabi,Boots of Mobility,Ignite,Flash
+11,MasterYi,1419,2031,3124,3091,1042,3006,11,4,Enchantment: Bloodrazor,Refillable Potion,Guinsoo's Rageblade,Wit's End,Dagger,Berserker's Greaves,Smite,Flash
+518,Neeko,3030,3157,3905,3020,1052,1056,4,12,Hextech GLP-800,Zhonya's Hourglass,,Sorcerer's Shoes,Amplifying Tome,Doran's Ring,Flash,Teleport
+74,Heimerdinger,3285,3157,3020,1056,1026,1052,12,4,Luden's Echo,Zhonya's Hourglass,Sorcerer's Shoes,Doran's Ring,Blasting Wand,Amplifying Tome,Teleport,Flash
+10,Kayle,3146,2033,3115,3006,3124,1042,12,4,Hextech Gunblade,Corrupting Potion,Nashor's Tooth,Berserker's Greaves,Guinsoo's Rageblade,Dagger,Teleport,Flash
+20,Nunu,3152,2031,3111,3047,1413,1011,4,11,Hextech Protobelt-01,Refillable Potion,Mercury's Treads,Ninja Tabi,Enchantment: Cinderhulk,Giant's Belt,Flash,Smite
+15,Sivir,3508,3006,3031,3094,1042,1055,7,4,Essence Reaver,Berserker's Greaves,Infinity Edge,Rapid Firecannon,Dagger,Doran's Blade,Heal,Flash
+102,Shyvana,1402,2031,3020,3115,3165,1052,11,4,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Nashor's Tooth,Morellonomicon,Amplifying Tome,Smite,Flash
+23,Tryndamere,3077,3508,3006,3031,3101,3158,4,6,Tiamat,Essence Reaver,Berserker's Greaves,Infinity Edge,Stinger,Ionian Boots of Lucidity,Flash,Ghost
+113,Sejuani,1401,2031,2055,3083,3047,3111,11,4,Enchantment: Cinderhulk,Refillable Potion,Control Ward,Warmog's Armor,Ninja Tabi,Mercury's Treads,Smite,Flash
+27,Singed,2033,3116,3047,3151,1082,3009,6,4,Corrupting Potion,Rylai's Crystal Scepter,Ninja Tabi,Liandry's Torment,The Dark Seal,Boots of Swiftness,Ghost,Flash
+127,Lissandra,3152,3157,3020,3285,1056,3165,4,12,Hextech Protobelt-01,Zhonya's Hourglass,Sorcerer's Shoes,Luden's Echo,Doran's Ring,Morellonomicon,Flash,Teleport
+18,Tristana,3031,3006,3094,1055,1042,1038,7,4,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Doran's Blade,Dagger,B. F. Sword,Heal,Flash
+141,Kayn,1400,2031,3047,3147,1036,3117,11,4,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Duskblade of Draktharr,Long Sword,Boots of Mobility,Smite,Flash
+119,Draven,1055,3072,3031,3006,3094,1042,7,4,Doran's Blade,The Bloodthirster,Infinity Edge,Berserker's Greaves,Rapid Firecannon,Dagger,Heal,Flash
+17,Teemo,3285,3020,3151,3115,3165,1026,14,4,Luden's Echo,Sorcerer's Shoes,Liandry's Torment,Nashor's Tooth,Morellonomicon,Blasting Wand,Ignite,Flash
+112,Viktor,3198,3285,3020,1056,3100,1026,4,12,Perfect Hex Core,Luden's Echo,Sorcerer's Shoes,Doran's Ring,Lich Bane,Blasting Wand,Flash,Teleport
+121,Khazix,3142,3147,2055,3117,1036,3111,11,4,Youmuu's Ghostblade,Duskblade of Draktharr,Control Ward,Boots of Mobility,Long Sword,Mercury's Treads,Smite,Flash
+115,,3285,3020,3165,3089,1056,1026,4,12,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Doran's Ring,Blasting Wand,Flash,Teleport
+120,Hecarim,2033,3078,3047,3111,3065,1028,14,12,Corrupting Potion,Trinity Force,Ninja Tabi,Mercury's Treads,Spirit Visage,Ruby Crystal,Ignite,Teleport
+37,Sona,3048,3174,3853,3504,3020,1052,4,14,Seraph's Embrace,Athene's Unholy Grail,,Ardent Censer,Sorcerer's Shoes,Amplifying Tome,Flash,Ignite
+50,Swain,3157,2055,3853,3020,3151,3111,14,4,Zhonya's Hourglass,Control Ward,,Sorcerer's Shoes,Liandry's Torment,Mercury's Treads,Ignite,Flash
+29,Twitch,3153,3006,3085,3031,1042,1038,4,7,Blade of the Ruined King,Berserker's Greaves,Runaan's Hurricane,Infinity Edge,Dagger,B. F. Sword,Flash,Heal
+5,XinZhao,1412,2031,3111,3078,3047,1028,11,4,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Trinity Force,Ninja Tabi,Ruby Crystal,Smite,Flash
+101,Xerath,3285,3020,3165,3089,1026,1052,4,21,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Rabadon's Deathcap,Blasting Wand,Amplifying Tome,Flash,Barrier
+268,Azir,3115,3020,3165,1056,1052,1058,4,12,Nashor's Tooth,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Amplifying Tome,Needlessly Large Rod,Flash,Teleport
+161,Velkoz,3285,3020,3165,3151,1052,1026,4,21,Luden's Echo,Sorcerer's Shoes,Morellonomicon,Liandry's Torment,Amplifying Tome,Blasting Wand,Flash,Barrier
+133,Quinn,3153,3006,3031,1055,3095,1038,14,4,Blade of the Ruined King,Berserker's Greaves,Infinity Edge,Doran's Blade,,B. F. Sword,Ignite,Flash
+45,Veigar,3285,3020,3089,3165,1058,1026,4,12,Luden's Echo,Sorcerer's Shoes,Rabadon's Deathcap,Morellonomicon,Needlessly Large Rod,Blasting Wand,Flash,Teleport
+31,Chogath,3030,3905,3800,3111,1056,3020,12,4,Hextech GLP-800,,Righteous Glory,Mercury's Treads,Doran's Ring,Sorcerer's Shoes,Teleport,Flash
+136,AurelionSol,2033,3157,3027,3165,3020,3116,4,14,Corrupting Potion,Zhonya's Hourglass,Rod of Ages,Morellonomicon,Sorcerer's Shoes,Rylai's Crystal Scepter,Flash,Ignite
+33,Rammus,1401,3075,3800,3751,3111,3117,11,4,Enchantment: Cinderhulk,Thornmail,Righteous Glory,Bami's Cinder,Mercury's Treads,Boots of Mobility,Smite,Flash
+48,Trundle,3077,2031,3111,3047,3065,1028,11,4,Tiamat,Refillable Potion,Mercury's Treads,Ninja Tabi,Spirit Visage,Ruby Crystal,Smite,Flash
+34,Anivia,2033,3157,3027,3020,3165,1056,12,4,Corrupting Potion,Zhonya's Hourglass,Rod of Ages,Sorcerer's Shoes,Morellonomicon,Doran's Ring,Teleport,Flash
+28,Evelynn,1402,2031,3020,3100,1082,1052,11,4,Enchantment: Runic Echoes,Refillable Potion,Sorcerer's Shoes,Lich Bane,The Dark Seal,Amplifying Tome,Smite,Flash
+92,Riven,3071,3812,3111,3047,1036,2422,12,4,The Black Cleaver,Death's Dance,Mercury's Treads,Ninja Tabi,Long Sword,,Teleport,Flash
+19,Warwick,1413,3077,3047,3075,3065,1028,11,4,Enchantment: Cinderhulk,Tiamat,Ninja Tabi,Thornmail,Spirit Visage,Ruby Crystal,Smite,Flash
+63,Brand,3285,3020,3151,3165,1026,1052,4,14,Luden's Echo,Sorcerer's Shoes,Liandry's Torment,Morellonomicon,Blasting Wand,Amplifying Tome,Flash,Ignite
+90,Malzahar,3285,3020,3116,3151,1026,1052,12,4,Luden's Echo,Sorcerer's Shoes,Rylai's Crystal Scepter,Liandry's Torment,Blasting Wand,Amplifying Tome,Teleport,Flash
+420,Illaoi,3071,2033,3111,3053,3065,3047,12,4,The Black Cleaver,Corrupting Potion,Mercury's Treads,Sterak's Gage,Spirit Visage,Ninja Tabi,Teleport,Flash
+143,,3285,3853,3151,3020,1026,2055,4,14,Luden's Echo,,Liandry's Torment,Sorcerer's Shoes,Blasting Wand,Control Ward,Flash,Ignite
+75,Nasus,3078,3111,3065,3047,3742,1028,12,4,Trinity Force,Mercury's Treads,Spirit Visage,Ninja Tabi,Dead Man's Plate,Ruby Crystal,Teleport,Flash
+32,Amumu,1401,2031,3047,3001,1402,3020,32,4,Enchantment: Cinderhulk,Refillable Potion,Ninja Tabi,Abyssal Scepter,Enchantment: Runic Echoes,Sorcerer's Shoes,Mark,Flash
+427,Ivern,1039,3107,3117,3174,3504,3114,4,11,Hunter's Talisman,Redemption,Boots of Mobility,Athene's Unholy Grail,Ardent Censer,Forbidden Idol,Flash,Smite
+36,DrMundo,3065,2031,3047,3068,3083,3111,32,4,Spirit Visage,Refillable Potion,Ninja Tabi,Sunfire Cape,Warmog's Armor,Mercury's Treads,Mark,Flash
+14,Sion,2033,3111,3047,3068,3194,1028,12,4,Corrupting Potion,Mercury's Treads,Ninja Tabi,Sunfire Cape,,Ruby Crystal,Teleport,Flash
+96,KogMaw,3153,3124,3006,3085,1042,3020,4,7,Blade of the Ruined King,Guinsoo's Rageblade,Berserker's Greaves,Runaan's Hurricane,Dagger,Sorcerer's Shoes,Flash,Heal
+1,Annie,3285,3020,3157,3165,1026,1058,4,14,Luden's Echo,Sorcerer's Shoes,Zhonya's Hourglass,Morellonomicon,Blasting Wand,Needlessly Large Rod,Flash,Ignite
+42,Corki,3078,3020,3031,3094,1038,1037,4,12,Trinity Force,Sorcerer's Shoes,Infinity Edge,Rapid Firecannon,B. F. Sword,Pickaxe,Flash,Teleport
+150,Gnar,3071,2031,3047,3022,1055,3111,12,4,The Black Cleaver,Refillable Potion,Ninja Tabi,Frozen Mallet,Doran's Blade,Mercury's Treads,Teleport,Flash
+6,Urgot,3071,3812,3047,3111,3026,1036,12,4,The Black Cleaver,Death's Dance,Ninja Tabi,Mercury's Treads,Guardian Angel,Long Sword,Teleport,Flash
+254,Vi,1400,2031,3111,3078,1412,3047,11,4,Enchantment: Warrior,Refillable Potion,Mercury's Treads,Trinity Force,Enchantment: Warrior,Ninja Tabi,Smite,Flash
+72,Skarner,3800,2031,3111,3047,3193,1028,11,4,Righteous Glory,Refillable Potion,Mercury's Treads,Ninja Tabi,,Ruby Crystal,Smite,Flash
+83,Yorick,3078,3047,3111,3053,3065,1028,4,12,Trinity Force,Ninja Tabi,Mercury's Treads,Sterak's Gage,Spirit Visage,Ruby Crystal,Flash,Teleport
+77,Udyr,1400,2031,3047,3078,3091,3111,11,4,Enchantment: Warrior,Refillable Potion,Ninja Tabi,Trinity Force,Wit's End,Mercury's Treads,Smite,Flash
